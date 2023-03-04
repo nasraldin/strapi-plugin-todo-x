@@ -48,4 +48,5 @@ To find out more about how this plugin was built:
 
 - Design by [Raffaele Gesulfo](https://twitter.com/rgesulfo)
 - Dev by [Rémi de Juvigny](https://twitter.com/remidej)
+- Update by [Nasr Aldin](https://twitter.com/_nasraldin_)
 - ❤️ and support by the [Strapi team](https://strapi.io/careers)

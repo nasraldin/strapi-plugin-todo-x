@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
-import { Box, Divider, Flex, IconButton, TextButton, Typography } from '@strapi/design-system';
+import { Box, Divider, Flex, TextButton, Typography } from '@strapi/design-system';
 import { Plus } from '@strapi/icons';
 import { useCMEditViewDataManager } from '@strapi/helper-plugin';
-import styled from 'styled-components';
-import axiosInstance from '../utils/axiosInstance';
 import TaskModal from './TaskModal';
 import useRelatedTasks from '../hooks/useRelatedTasks';
 import TasksList from './TasksList';
